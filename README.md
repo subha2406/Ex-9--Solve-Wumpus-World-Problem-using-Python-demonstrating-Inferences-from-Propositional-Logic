@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:           </h3>
-<h3>Register Number            </h3>
+<h3>Name: Subha shree U   </h3>
+<h3>Register Number  : 2305002025  </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -13,7 +13,7 @@ The Wumpus world is a simple world example to illustrate the worth of a knowledg
 
 The figure below shows a Wumpus world containing one pit and one Wumpus. There is an agent in room [1,1]. The goal of the agent is to exit the Wumpus world alive. The agent can exit the Wumpus world by reaching room [4,4]. The wumpus world contains exactly one Wumpus and one pit. There will be a breeze in the rooms adjacent to the pit, and there will be a stench in the rooms adjacent to Wumpus.
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/cd6b68dc-c79f-4dcb-8126-04da90d65912)
+<img width="541" height="409" alt="image" src="https://github.com/user-attachments/assets/627c1c0c-27ab-4630-b1cc-48e21fb69c84" />
 
 <center>Wumpus World Representation</center>
 <p>
@@ -140,12 +140,14 @@ while(player):
 <h1>Sample Input and Output:</h1>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+<img width="798" height="763" alt="image" src="https://github.com/user-attachments/assets/334babb3-57bf-4c41-a020-7a3454ec422e" />
+<img width="748" height="518" alt="image" src="https://github.com/user-attachments/assets/0f906065-7f2a-4aa7-b756-6ece2864890c" />
+
 
 ## OUTPUT
 
-![439499566-74590332-6d8c-4623-92f1-08397aa1e854](https://github.com/user-attachments/assets/fb981510-0c4c-4e9c-b7c5-9dcbf9863e50)
+<img width="815" height="754" alt="image" src="https://github.com/user-attachments/assets/d87d11fe-c60e-46c9-aefc-7b702d2fdfd0" />
+
 
 ## RESULT
 
